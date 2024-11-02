@@ -1,0 +1,6 @@
+Checks: |
+  -*,
+  gabin-functionsizecheck,
+  gabin-epitafunctionargscountcheck,
+  #gabin-switchcaseindentationcheck
+WarningsAsErrors: '*'                     # Traite toutes les vérifications comme des erreurs
